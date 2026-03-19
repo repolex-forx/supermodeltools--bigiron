@@ -41,6 +41,19 @@
         "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
         "blob/a7e4c8fcfe81c4e1bd42c5d863dc266ab171be97.nq.gz",
         "blob/d7b2b6a023a0991673a33524288b12455c603a8f.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/fb33f8e91e9d12f4e063f703846c71638af0c5c5.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/fb33f8e91e9d12f4e063f703846c71638af0c5c5.nq.gz",
+      "repolex": "aggregate/repolex/fb33f8e91e9d12f4e063f703846c71638af0c5c5.nq.gz",
+      "dep": "dep/fb33f8e91e9d12f4e063f703846c71638af0c5c5.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        }
       ]
     }
   ],
